@@ -1,9 +1,3 @@
-# Elias
-
-## Getting started
-HERE IS the link of my personal website on github
-      
-- https://github.com/eliasdm/portfolio/
-
-1. [visite my personal site](https://github.com/eliasdm/portfolio/)
-
+# Elias Demlie
+ viste my personal site 
+- **my personal site:** https://eliasdm.github.io/portfolio/
